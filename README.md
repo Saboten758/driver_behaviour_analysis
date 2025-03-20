@@ -9,7 +9,7 @@ Follow the steps below to set up and run the application:
 
    ```bash
    git clone https://github.com/Saboten758/driver_behaviour_analysis
-   cd your-repository
+   cd driver_behaviour_analysis
    ```
 
 2. **Create a Virtual Environment:**
