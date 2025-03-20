@@ -8,7 +8,7 @@ Follow the steps below to set up and run the application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Saboten758/driver_behaviour_analysis
    cd your-repository
    ```
 
